@@ -1,0 +1,59 @@
+[
+    {
+      "question": "Care dintre următoarele obiecte nu reprezintă un dispozitiv de ieșire?",
+      "choice1": "Mouse",
+      "choice2": "Tastatura",
+      "choice3": "Imprimanta",
+      "choice4": "Monitor",
+      "answer": 2
+    },
+    {
+      "question":
+        "Care este combinatia de taste pentru a copia și a lipi informatii?",
+      "choice1": "Ctrl+X , Ctrl+C",
+      "choice2": "Ctrl+X , Ctrl+V",
+      "choice3": "Ctrl+C , Ctrl+X>",
+      "choice4": "Ctrl+C , Ctrl+V",
+      "answer": 4
+    },
+    {
+      "question": "Intr-o aplicatie de calcul tabelar, putem sa:",
+      "choice1": "Incepem formula cu =",
+      "choice2": "Folosim funcții într-o formula",
+      "choice3": "Folosim doar numere într-o formula",
+      "choice4": "Facem referiri la alte celule",
+      "answer": 4
+    },
+    {
+        "question": "Extensie pentru Microsoft PowerPoint este :",
+        "choice1": ".ppt",
+        "choice2": ".doc",
+        "choice3": ".pptx",
+        "choice4": ".jpg",
+        "answer": 1
+      },
+    {
+        "question": "Ce este un fisier?",
+        "choice1": "o colecţie de date",
+        "choice2": "o colecţie de timbre",
+        "choice3": "un program",
+        "choice4": "un browser",
+        "answer": 1
+     },
+     {
+        "question": "Care dintre următoarele operății cresc valoare variabilei „a” întregi cu 1?",
+        "choice1": "a++",
+        "choice2": "a*=1",
+        "choice3": "a=a-1",
+        "choice4": "a--",
+        "answer": 1
+     },
+     {
+        "question": "Intr-o pagină web, putem marca titlul prin tag-urile:",
+        "choice1": "<title>",
+        "choice2": "<h1>",
+        "choice3": "<h5>",
+        "choice4": "<p>",
+        "answer": 1
+     }
+  ]
